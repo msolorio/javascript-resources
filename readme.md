@@ -20,7 +20,6 @@ https://tylermcginnis.com/an-introduction-to-life-cycle-events-in-react-js-aa379
 :star: **You don’t know js - Kyle Simpson**
 https://github.com/getify/You-Dont-Know-JS/
 
-
 **Speaking Javascript - by Axel Rauschmayer**
 http://exploringjs.com/
 
@@ -30,8 +29,8 @@ http://jsforcats.com/#recommended-reading
 **Eloquent Javascript**
 http://eloquentjavascript.net/
 
-**‘this’ in javascript**
-http://javascriptissexy.com/understand-javascripts-this-with-clarity-and-master-it/
+**javascriptissexy.com**
+http://javascriptissexy.com/
 
 ## TUTORIALS
 
@@ -50,7 +49,7 @@ http://scottksmith.com/blog/2014/05/02/building-restful-apis-with-node/
 **http request**
 https://www.kirupa.com/html5/making_http_requests_js.htm
 
-## EXCRECISES
+## EXERCISES
 
 :star: **Algorithms**
 https://projecteuler.net/
