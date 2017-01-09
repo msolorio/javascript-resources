@@ -1,6 +1,6 @@
 ## REFERENCE
 
-:star: **Mozilla Javascript Docs**
+:star: **MDN Javascript Docs**
 https://developer.mozilla.org/en-US/docs/Web/JavaScript
 
 **ECMAscript spec**
@@ -17,10 +17,16 @@ https://tylermcginnis.com/an-introduction-to-life-cycle-events-in-react-js-aa379
 
 ## READING
 
-:star: **You don’t know js - Kyle Simpson**
+:star: **You Don’t Know Js - Kyle Simpson**
 https://github.com/getify/You-Dont-Know-JS/
 
-**Speaking Javascript - by Axel Rauschmayer**
+:star: **Launch School Bookshelf HTTP**
+https://launchschool.com/books/http
+
+**Launch School Bookshelf**
+https://launchschool.com/books/
+
+**Speaking Javascript - Axel Rauschmayer**
 http://exploringjs.com/
 
 **javascript for cats**
@@ -51,7 +57,10 @@ https://www.kirupa.com/html5/making_http_requests_js.htm
 
 ## EXERCISES
 
-:star: **Algorithms**
+:star: **FreeCodeCamp**
+https://www.freecodecamp.com/
+
+**Project Euler Algorithms**
 https://projecteuler.net/
 
 **TDD Excercises**
