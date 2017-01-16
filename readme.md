@@ -60,6 +60,9 @@ https://www.kirupa.com/html5/making_http_requests_js.htm
 :star: **FreeCodeCamp**
 https://www.freecodecamp.com/
 
+**Exercism.io**
+http://exercism.io/
+
 **Project Euler Algorithms**
 https://projecteuler.net/
 
