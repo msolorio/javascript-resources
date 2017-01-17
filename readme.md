@@ -20,11 +20,11 @@ https://tylermcginnis.com/an-introduction-to-life-cycle-events-in-react-js-aa379
 :star: **You Don’t Know Js - Kyle Simpson**
 https://github.com/getify/You-Dont-Know-JS/
 
-:star: **Launch School Bookshelf HTTP**
-https://launchschool.com/books/http
-
 **Launch School Bookshelf**
 https://launchschool.com/books/
+
+**Clean Code Javascript**
+https://github.com/ryanmcdermott/clean-code-javascript
 
 **Speaking Javascript - Axel Rauschmayer**
 http://exploringjs.com/
