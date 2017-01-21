@@ -12,6 +12,9 @@ https://github.com/rwaldron/idiomatic.js
 **es6**
 http://wiki.ecmascript.org/doku.php?id=harmony:proposals
 
+**Airbnb React/JSX Style Guide**
+https://github.com/airbnb/javascript/tree/master/react
+
 **lifecycle events in react**
 https://tylermcginnis.com/an-introduction-to-life-cycle-events-in-react-js-aa3796ad85aa?gi=6d21d1d05fdd#.5r227nmdj
 
@@ -28,6 +31,9 @@ https://github.com/ryanmcdermott/clean-code-javascript
 
 **Speaking Javascript - Axel Rauschmayer**
 http://exploringjs.com/
+
+**Exploring es6**
+http://exploringjs.com/es6.html
 
 **javascript for cats**
 http://jsforcats.com/#recommended-reading
