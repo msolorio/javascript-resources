@@ -46,7 +46,7 @@ http://javascriptissexy.com/
 
 ## TUTORIALS
 
-**React.js Fundamentals tutorial**
+:star: **React.js Fundamentals tutorial**
 https://online.reacttraining.com/p/reactjsfundamentals
 
 **Javascript 30**
