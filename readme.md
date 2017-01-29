@@ -3,6 +3,12 @@
 :star: **MDN Javascript Docs**
 https://developer.mozilla.org/en-US/docs/Web/JavaScript
 
+**Clean Code Javascript**
+https://github.com/ryanmcdermott/clean-code-javascript
+
+**React Docs**
+https://facebook.github.io/react/docs/hello-world.html
+
 **ECMAscript spec**
 https://www.ecma-international.org/ecma-262/6.0/
 
@@ -25,9 +31,6 @@ https://github.com/getify/You-Dont-Know-JS/
 
 **Launch School Bookshelf**
 https://launchschool.com/books/
-
-**Clean Code Javascript**
-https://github.com/ryanmcdermott/clean-code-javascript
 
 **Speaking Javascript - Axel Rauschmayer**
 http://exploringjs.com/
@@ -66,10 +69,10 @@ https://www.kirupa.com/html5/making_http_requests_js.htm
 :star: **FreeCodeCamp**
 https://www.freecodecamp.com/
 
-**Exercism.io**
+:star: **Exercism.io**
 http://exercism.io/
 
-**Project Euler Algorithms**
+:star: **Project Euler Algorithms**
 https://projecteuler.net/
 
 **TDD Excercises**
