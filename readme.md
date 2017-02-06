@@ -3,6 +3,9 @@
 :star: **MDN Javascript Docs**
 https://developer.mozilla.org/en-US/docs/Web/JavaScript
 
+**Devdocs.io**
+http://devdocs.io/
+
 **Clean Code Javascript**
 https://github.com/ryanmcdermott/clean-code-javascript
 
@@ -26,7 +29,10 @@ https://tylermcginnis.com/an-introduction-to-life-cycle-events-in-react-js-aa379
 
 ## READING
 
-:star: **You Don’t Know Js - Kyle Simpson**
+:star: **Free Programming Books**
+https://github.com/vhf/free-programming-books/blob/master/free-programming-books.md
+
+**You Don’t Know Js - Kyle Simpson**
 https://github.com/getify/You-Dont-Know-JS/
 
 **Launch School Bookshelf**
