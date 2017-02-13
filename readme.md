@@ -30,10 +30,16 @@ https://tylermcginnis.com/an-introduction-to-life-cycle-events-in-react-js-aa379
 **javascript event keycodes**
 http://keycode.info/
 
+**Scalable, Modular CSS Architecture**
+https://smacss.com/
+
 ## READING
 
-:star: **Free Programming Books**
+**Free Programming Books**
 https://github.com/vhf/free-programming-books/blob/master/free-programming-books.md
+
+**Javascript Enlightenment - Cody Lindley - Javascript Objects**
+http://www.javascriptenlightenment.com/
 
 **You Don’t Know Js - Kyle Simpson**
 https://github.com/getify/You-Dont-Know-JS/
@@ -58,11 +64,8 @@ http://javascriptissexy.com/
 
 ## TUTORIALS
 
-:star: **React.js Fundamentals tutorial**
+**React.js Fundamentals tutorial**
 https://online.reacttraining.com/p/reactjsfundamentals
-
-**Javascript 30**
-https://javascript30.com/
 
 **Basic CRUD app with Express / MongoDB / Node**
 https://zellwk.com/blog/crud-express-mongodb/
@@ -75,13 +78,16 @@ https://www.kirupa.com/html5/making_http_requests_js.htm
 
 ## EXERCISES
 
-:star: **FreeCodeCamp**
+**Javascript 30**
+https://javascript30.com/
+
+**FreeCodeCamp**
 https://www.freecodecamp.com/
 
-:star: **Exercism.io**
+**Exercism.io**
 http://exercism.io/
 
-:star: **Project Euler Algorithms**
+**Project Euler Algorithms**
 https://projecteuler.net/
 
 **TDD Excercises**
