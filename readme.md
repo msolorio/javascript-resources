@@ -84,6 +84,9 @@ https://javascript30.com/
 **FreeCodeCamp**
 https://www.freecodecamp.com/
 
+**Massive List of Projects**
+https://github.com/karan/Projects
+
 **Exercism.io**
 http://exercism.io/
 
