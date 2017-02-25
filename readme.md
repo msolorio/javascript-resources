@@ -30,6 +30,9 @@ https://tylermcginnis.com/an-introduction-to-life-cycle-events-in-react-js-aa379
 **javascript event keycodes**
 http://keycode.info/
 
+**HTML Unicode Characters**
+http://graphemica.com/
+
 **Scalable, Modular CSS Architecture**
 https://smacss.com/
 
