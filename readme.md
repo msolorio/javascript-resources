@@ -1,24 +1,24 @@
 ## REFERENCE
 
-:star: **MDN Javascript Docs**
+:star: **MDN JavaScript Docs**
 https://developer.mozilla.org/en-US/docs/Web/JavaScript
 
 **Devdocs.io**
 http://devdocs.io/
 
-**Clean Code Javascript**
+**Clean Code JavaScript**
 https://github.com/ryanmcdermott/clean-code-javascript
 
 **React Docs**
 https://facebook.github.io/react/docs/hello-world.html
 
-**ECMAscript spec**
+**ECMAscript Spec**
 https://www.ecma-international.org/ecma-262/6.0/
 
-**javascript writing style**
+**JavaScript Writing Style**
 https://github.com/rwaldron/idiomatic.js
 
-**es6**
+**ES6**
 http://wiki.ecmascript.org/doku.php?id=harmony:proposals
 
 **Airbnb React/JSX Style Guide**
@@ -27,7 +27,7 @@ https://github.com/airbnb/javascript/tree/master/react
 **lifecycle events in react**
 https://tylermcginnis.com/an-introduction-to-life-cycle-events-in-react-js-aa3796ad85aa?gi=6d21d1d05fdd#.5r227nmdj
 
-**javascript event keycodes**
+**javaScript Event Keycodes**
 http://keycode.info/
 
 **HTML Unicode Characters**
@@ -41,7 +41,7 @@ https://smacss.com/
 **Free Programming Books**
 https://github.com/vhf/free-programming-books/blob/master/free-programming-books.md
 
-**Javascript Enlightenment - Cody Lindley - Javascript Objects**
+**JavaScript Enlightenment - Cody Lindley - JavaScript Objects**
 http://www.javascriptenlightenment.com/
 
 **You Don’t Know Js - Kyle Simpson**
@@ -50,17 +50,22 @@ https://github.com/getify/You-Dont-Know-JS/
 **Launch School Bookshelf**
 https://launchschool.com/books/
 
-**Speaking Javascript - Axel Rauschmayer**
+**Speaking JavaScript - Axel Rauschmayer**
 http://exploringjs.com/
 
 **Exploring es6**
 http://exploringjs.com/es6.html
 
-**javascript for cats**
+**JavaScript for Cats**
 http://jsforcats.com/#recommended-reading
 
 **Eloquent Javascript**
 http://eloquentjavascript.net/
+
+## BLOGS
+
+**medium.com - JavaScript Scene**
+https://medium.com/javascript-scene
 
 **javascriptissexy.com**
 http://javascriptissexy.com/
